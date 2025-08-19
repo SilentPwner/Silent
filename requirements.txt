@@ -1,0 +1,16 @@
+# --- Core Application & Web Interface ---
+flask
+python-dotenv
+
+# --- Data Handling and Technical Analysis ---
+pandas
+numpy
+pandas-ta
+
+# --- Machine Learning ---
+scikit-learn
+joblib
+
+# --- Asynchronous Networking ---
+aiohttp
+websockets
